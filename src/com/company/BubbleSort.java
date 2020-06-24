@@ -4,7 +4,7 @@ public class BubbleSort {
 
 
     public static void main(String[] args){
-        int[] arr=new int[] {5,3,6,2,4,1,1,1}; //Array
+        int[] arr=new int[] {5,3,6,2,4,1,1,1}; //array
         print(arr);
         System.out.println("is Array Sort - " +isArraySort(arr));
         bubbleSort(arr);
