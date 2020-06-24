@@ -2,6 +2,7 @@ package com.company;
 
 public class BubbleSort2 {
 
+//another version of solution
 
     public static void main(String[] args){
         String[] strArr=new String[] {"ёж","арка","папа","дом"};

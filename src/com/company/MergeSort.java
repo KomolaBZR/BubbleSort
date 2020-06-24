@@ -10,6 +10,8 @@ public class MergeSort {
         return arr;
     }
 
+
+    //comments
  /*   {1,4,6,8,9}
 
       {4,5,7}
