@@ -3,6 +3,8 @@ import java.util.Arrays;
 public class Temp {
 
 
+
+
        static int[] intArr = {9, 3, 2, 1,100,99,86,77,45,33,11,88,97,89,96,97,98,91};
 
 
